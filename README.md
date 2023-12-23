@@ -14,11 +14,11 @@ Mobile and Web speech rehabilitation application for Arabic language speakers
 
 <h2> Contents </h2>
 
-1.  [Introduction](https://github.com/Radwa-Saeed/Speech-Rehabilitation-Application#1-introduction)
-2.  [User Interface & App Features](https://github.com/Radwa-Saeed/Speech-Rehabilitation-Application#2-user-interface)
-3.  [Server](https://github.com/Radwa-Saeed/Speech-Rehabilitation-Application#3-server)
-4.  [Paper](https://github.com/Radwa-Saeed/Speech-Rehabilitation-Application#4-Paper)
-5.  [Presentation](https://github.com/Radwa-Saeed/Speech-Rehabilitation-Application#5-Presentation)
+1.  [Introduction](https://github.com/Tarek999/Speech-Rehabilitation-Application#1-introduction)
+2.  [User Interface & App Features](https://github.com/Tarek999/Speech-Rehabilitation-Application#2-user-interface)
+3.  [Server](https://github.com/Tarek999/Speech-Rehabilitation-Application#3-server)
+4.  [Paper](https://github.com/Tarek999/Speech-Rehabilitation-Application#4-Paper)
+5.  [Presentation](https://github.com/Tarek999/Speech-Rehabilitation-Application#5-Presentation)
 
 ## 1. Introduction 
 - People having problems in pronouncing some letters are facing
